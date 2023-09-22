@@ -15,6 +15,7 @@ Preferred contact method is '''jhawes@ucsc.edu'''
 - User plays TicTacToe by using their facial expression to dictate moves.
 - Employs convolution layers, maxpooling layers, dense layers, dropout layers,
   and data augmentation to minimize overfitting to the relatively small data set.
+- Done in Python
 
 3. ##### Disposable-Game
 - Made with a team of 4 with varying levels of programming and artistic experience.
