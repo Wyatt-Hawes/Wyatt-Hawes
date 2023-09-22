@@ -1,7 +1,7 @@
 Hi there 👋
 ---------
 
-Preferred contact method is '''jhawes@ucsc.edu'''
+Preferred contact method is ```jhawes@ucsc.edu```
 
 ### Pinned Repositories
 
