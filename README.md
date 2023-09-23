@@ -4,7 +4,9 @@ Hi there 👋
 Preferred contact method is ```jhawes@ucsc.edu```
 
 [LinkedIn](https://www.linkedin.com/in/wyatt-hawes/) Link: ```https://www.linkedin.com/in/wyatt-hawes/```
+
 [Portfolio](https://wyatt-hawes.github.io/Portfolio/) Link: ```https://wyatt-hawes.github.io/Portfolio/```
+
 [Itch.io](https://wyatt-hawes.itch.io/) Link: ```https://wyatt-hawes.itch.io/```
 
 
