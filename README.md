@@ -2,6 +2,7 @@ Hi there 👋
 ---------
 
 Preferred contact method is ```jhawes@ucsc.edu```
+
 Portfolio Link: ```[https://wyatt-hawes.github.io/Portfolio/](https://wyatt-hawes.github.io/Portfolio/)```
 
 ### Pinned Repositories
