@@ -32,8 +32,8 @@ and weekly progress reports.
 - I am not responsible for the 2 header files.
 
 5. ##### Time-Defender
-- Game made in collaboration with 2 other team members
 - Created in JavaScript using the Phaser library
+- Made with 2 other team members with varying levels of programming and artistic experience.
 - Includes procedurally generated video and audio
 - Browser downloads less than 1MB in order to play the game
 - Managed a production timeline which included storyboarding, prototyping, task delegation, and weekly progress reports.
