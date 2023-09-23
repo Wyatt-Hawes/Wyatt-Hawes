@@ -7,7 +7,7 @@ Preferred contact method is ```jhawes@ucsc.edu```
 
 [Portfolio](https://wyatt-hawes.github.io/Portfolio/) Link: ```https://wyatt-hawes.github.io/Portfolio/```
 
-[Itch.io   ](https://wyatt-hawes.itch.io/) Link: ```https://wyatt-hawes.itch.io/```
+[Itch.io   ](https://wyatt-hawes.itch.io/) &nbsp;&nbsp;Link: ```https://wyatt-hawes.itch.io/```
 
 
 ### Pinned Repositories
