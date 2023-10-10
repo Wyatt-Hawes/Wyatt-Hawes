@@ -45,7 +45,6 @@ and weekly progress reports.
 - Browser downloads less than 1MB in order to play the game
 - Managed a production timeline which included storyboarding, prototyping, task delegation, and weekly progress reports.
    
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Wyatt-Hawes)
   
 
 <!--
