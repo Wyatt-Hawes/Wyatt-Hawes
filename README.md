@@ -45,6 +45,36 @@ and weekly progress reports.
 - Browser downloads less than 1MB in order to play the game
 - Managed a production timeline which included storyboarding, prototyping, task delegation, and weekly progress reports.
 
+### Data Structures & Algorithms I've created.
+
+##### Data Structures & ADT's
+- [Bloom Filter | C](https://github.com/Wyatt-Hawes/Data_Structures_in_C/blob/main/bf.c)
+- [Bit Vector | C](https://github.com/Wyatt-Hawes/Data_Structures_in_C/blob/main/bv.c)
+- [Hash Table | C](https://github.com/Wyatt-Hawes/Data_Structures_in_C/blob/main/ht.c)
+- [Doubly Linked List | C](https://github.com/Wyatt-Hawes/Doubly_Linked_List_in_C/blob/main/List.c)
+- [Node | C](https://github.com/Wyatt-Hawes/Data_Structures_in_C/blob/main/node.c)
+- [Priority Queue | C](https://github.com/Wyatt-Hawes/Huffman-Encoding-Decoding/blob/main/pq.c)
+- [Stack | C](https://github.com/Wyatt-Hawes/Huffman-Encoding-Decoding/blob/main/stack.c)
+- [Set | C](https://github.com/Wyatt-Hawes/Sorting_Algorithms_in_C/blob/main/set.c)
+- [Sparse Matrix | C](https://github.com/Wyatt-Hawes/Sparse_Matrix_in_C/blob/main/Matrix.c)
+- [Graph | C](https://github.com/Wyatt-Hawes/Graph_with_adjacency_lists)
+
+- [List | C++](https://github.com/Wyatt-Hawes/List_ADT_in_Cpp/blob/main/List.cpp)
+- [Big Integer | C++](https://github.com/Wyatt-Hawes/Big_Integer_ADT_Cpp/blob/main/BigIntegerTest.cpp)
+- [Binary Search Tree Dictionary | C++](https://github.com/Wyatt-Hawes/Dictionary_using_BST_Cpp)
+- [Red Black Tree Dictionary | C++](https://github.com/Wyatt-Hawes/Dictionary_using_RBT_Cpp)
+
+##### Algorithms
+- [Bubble Sort| C](https://github.com/Wyatt-Hawes/Sorting_Algorithms_in_C/blob/main/bubble.c)
+- [Heap Sort  | C](https://github.com/Wyatt-Hawes/Sorting_Algorithms_in_C/blob/main/heap.c)
+- [Quick Sort | C](https://github.com/Wyatt-Hawes/Sorting_Algorithms_in_C/blob/main/quick.c)
+- [Shell Sort | C](https://github.com/Wyatt-Hawes/Sorting_Algorithms_in_C/blob/main/shell.c)
+- [RSA Encryption/Decryption | C](https://github.com/Wyatt-Hawes/RSA-Encryption-Decryption)
+- [Huffman Encoding | C](https://github.com/Wyatt-Hawes/Huffman-Encoding-Decoding)
+- [DFS | C](https://github.com/Wyatt-Hawes/DFS_and_BFS_in_C)
+- [BFS | C](https://github.com/Wyatt-Hawes/DFS_and_BFS_in_C)
+  
+- [Bi-Directional A* | Python](https://github.com/Wyatt-Hawes/Bidirectional_AStar)
 <!--
 **Wyatt-Hawes/Wyatt-Hawes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
