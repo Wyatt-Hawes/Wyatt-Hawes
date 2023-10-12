@@ -75,6 +75,8 @@ and weekly progress reports.
 - [BFS | C](https://github.com/Wyatt-Hawes/DFS_and_BFS_in_C)
   
 - [Bi-Directional A* | Python](https://github.com/Wyatt-Hawes/Bidirectional_AStar)
+
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Wyatt-Hawes)
 <!--
 **Wyatt-Hawes/Wyatt-Hawes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
