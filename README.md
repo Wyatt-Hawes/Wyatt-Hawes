@@ -14,7 +14,7 @@ Preferred contact method is ```jhawes@ucsc.edu```
 1. ##### [Portfolio](https://github.com/Wyatt-Hawes/Portfolio)
 - A website that hosts my portfolio.
 - Includes work experience, relevant coursework, and most of my personal projects.
-- Built-in HTML and CSS.
+- Built-in HTML and CSS with supporting Javascript files to make adding information data-driven.
 
 2. ##### [Facial-Recognition-TicTacToe](https://github.com/Wyatt-Hawes/Facial-Recognition-TicTacToe)
 - Trained a neural network based on a Kaggle dataset.
