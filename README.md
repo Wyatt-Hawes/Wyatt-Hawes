@@ -64,7 +64,7 @@ and weekly progress reports.
 - [Red Black Tree Dictionary | C++](https://github.com/Wyatt-Hawes/Dictionary_using_RBT_Cpp)
 
 ##### Algorithms
-- [Bubble Sort| C](https://github.com/Wyatt-Hawes/Sorting_Algorithms_in_C/blob/main/bubble.c)
+- [Bubble Sort | C](https://github.com/Wyatt-Hawes/Sorting_Algorithms_in_C/blob/main/bubble.c)
 - [Heap Sort  | C](https://github.com/Wyatt-Hawes/Sorting_Algorithms_in_C/blob/main/heap.c)
 - [Quick Sort | C](https://github.com/Wyatt-Hawes/Sorting_Algorithms_in_C/blob/main/quick.c)
 - [Shell Sort | C](https://github.com/Wyatt-Hawes/Sorting_Algorithms_in_C/blob/main/shell.c)
