@@ -7,7 +7,7 @@ Preferred contact method is ```jhawes@ucsc.edu```
 
 [LinkedIn](https://www.linkedin.com/in/wyatt-hawes/) Link: ```https://www.linkedin.com/in/wyatt-hawes/```
 
-[Portfolio](https://wyatt-hawes.github.io/Portfolio/) Link: ```https://wyatt-hawes.github.io/Portfolio/```
+[Portfolio](https://wyatt-hawes.github.io/Portfolio/interesting_projects) Link: ```https://wyatt-hawes.github.io/Portfolio/interesting_projects```
 
 [Itch.io   ](https://wyatt-hawes.itch.io/) &nbsp;&nbsp;&nbsp;&nbsp;Link: ```https://wyatt-hawes.itch.io/```
 
@@ -18,7 +18,7 @@ Preferred contact method is ```jhawes@ucsc.edu```
 - Includes work experience, relevant coursework, and most of my personal projects.
 - Built-in HTML and CSS with supporting Javascript files to make adding information data-driven.
 
-2. ##### [Visual Taskboard](https://github.com/Wyatt-Hawes/visual-taskboard) {Private repository available upon request}
+2. ##### [Visual Taskboard](https://github.com/Wyatt-Hawes/ResNet-Visual-Taskboard)
 - A visual taskboard (Similar to Trello) that integrates with the ServiceNow ticketing API
 - Visualizes Client Updated and Stale tickets while allowing custom organization, sorting, and automation.
 - Built with Node.js, React, and Express.
