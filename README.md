@@ -58,6 +58,7 @@ Preferred contact method is ```jhawes@ucsc.edu```
 ### Data Structures & Algorithms I've created.
 
 ##### Data Structures & ADT's
+C
 - [Hash Table | C](https://github.com/Wyatt-Hawes/Data_Structures_in_C/blob/main/ht.c)
 - Reader Writer Lock | C
 - Concurrent Queue | C
@@ -71,6 +72,7 @@ Preferred contact method is ```jhawes@ucsc.edu```
 - [Sparse Matrix | C](https://github.com/Wyatt-Hawes/Sparse_Matrix_in_C/blob/main/Matrix.c)
 - [Graph | C](https://github.com/Wyatt-Hawes/Graph_with_adjacency_lists)
 
+C++  
 - Reader Writer Mutex | C++
 - Filter & Bakery Algorithm Mutex | C++
 - Concurrent Queue | C++
