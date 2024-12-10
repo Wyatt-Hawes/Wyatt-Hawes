@@ -93,7 +93,7 @@ C++
 - [BFS | C](https://github.com/Wyatt-Hawes/DFS_and_BFS_in_C)
   
 - [Bi-Directional A* | Python](https://github.com/Wyatt-Hawes/Bidirectional_AStar)
-- [Monte-Carlo Tree Search | Python](https://github.com/Wyatt-Hawes/MCTS_Ultimate_Tic_Tac_Toe)
+- [Monte-Carlo Tree Search | C++ & Python](https://github.com/Wyatt-Hawes/MCTS_Ultimate_Tic_Tac_Toe)
 
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Wyatt-Hawes)
 
