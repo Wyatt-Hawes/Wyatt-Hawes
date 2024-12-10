@@ -13,64 +13,56 @@ Preferred contact method is ```jhawes@ucsc.edu```
 
 ### Pinned Repositories
 
-1. ##### [Portfolio](https://github.com/Wyatt-Hawes/Portfolio)
-- A website that hosts my portfolio.
-- Includes work experience, relevant coursework, and most of my personal projects.
-- Built-in HTML and CSS with supporting Javascript files to make adding information data-driven.
-
-2. ##### [Visual Taskboard](https://github.com/Wyatt-Hawes/ResNet-Visual-Taskboard)
+1. ##### [Visual Taskboard](https://github.com/Wyatt-Hawes/ResNet-Visual-Taskboard)
+- Created as `myself and my co-workers were unhappy with our current issue tracking system` and its lack of integration with our ticketing system
+- `Took initiative to start this project on my own` from scratch to increase the work experience (and efficiency!) of the entire office.
 - A visual taskboard (Similar to Trello) that integrates with the ServiceNow ticketing API
 - Visualizes Client Updated and Stale tickets while allowing custom organization, sorting, and automation.
 - Built with Node.js, React, and Express.
 
-3. ##### [SlugMart](https://github.com/Wyatt-Hawes/SlugMart) {Private repository available upon request}
+2. ##### **Distributed System in Go / Golang** (Repository Coming Soon)
+- A `Replicated Key-Value Store Distributed System`
+- Made in `Go`
+- Replicates data to all available replicas in the system, `automatically detects downed replicas` (and notifies all other replicas of this info)
+- `Enforces Causal Consistency` through the use of Causal Meta-data
+- Test suite to allow confidence in functionality
+
+3. ##### **Multi-Threaded HTTP Server in C** (Repository Coming Soon)
+- `Uses only system calls`, does **NOT** use the stdio library (No fopen, read, etc.) as I wanted to understand the process of what really goes into an HTTP server
+- Simple server that stores allows files to be stored and retrieved from the server
+
+4. ##### [SlugMart](https://github.com/Wyatt-Hawes/SlugMart) {Private repository available upon request}
 - Full stack Amazon Clone
 - Complete with checkout, administration websites, Vendor API's, Vendor Websites, Checkout/Stripe Integration
 - Technologies & Ideas: React, Tailwind, GraphQL, Express, AWS, RESTful API, Docker, Microservices, & More!
 
-4. ##### [Diligent](https://github.com/Wyatt-Hawes/Diligint) {Private repository available upon request}
-- Full stack Slack Clone
-- Technologies & Ideas: React, GraphQL, Express, RESTful API, Docker, Microservices, & More!
-
 5. ##### [Three Bulky Bears](https://github.com/SpaceDoddyssey/ThreeBulkyBears) {Private repository available upon request}
 - A platformer game made as a group of ~20
 - Published on Steam, created in Unity
-- Contributed as a Programmer (Gameplay programmer & Automatic analytic collection)
+- Contributed as a Programmer `(Gameplay programmer & Automatic analytic collection)`
 
-6. ##### [Facial-Recognition-TicTacToe](https://github.com/Wyatt-Hawes/Facial-Recognition-TicTacToe)
+7. ##### [Facial-Recognition-TicTacToe](https://github.com/Wyatt-Hawes/Facial-Recognition-TicTacToe)
 - Trained a neural network based on a Kaggle dataset.
 - User plays TicTacToe by using their facial expression to dictate moves.
 - Employs convolution layers, max-pooling layers, dense layers, dropout layers,
   and data augmentation to minimize overfitting to the relatively small data set.
 - Done in Python
 
-7. ##### [Disposable-Game](https://github.com/Wyatt-Hawes/Disposable-Game)
-- Made with a team of 4 with varying levels of programming and artistic experience.
-- Uses the Godot game engine which we were learning alongside the project.
-- Managed a production timeline which included storyboarding, prototyping, task delegation, 
-and weekly progress reports.
-- I was responsible for the UI/UX, Mechanics, Level and Upgrade Design, and Debugging
-- The entire project was made in three weeks.
-
-8. ##### [RSA-Encryption-Decryption](https://github.com/Wyatt-Hawes/RSA-Encryption-Decryption)
-- C program that encrypts, decrypts, and generates public/private keys using RSA algorithms.
-- Generates an SSH key and encryptes/decryptes files using the SSH methods. You may use each of these functions separately or pipe them together!
-- I am responsible for creating all the *.c files and makefile
-- I am not responsible for the 2 header files.
-
-9. ##### [Time-Defender](https://github.com/Wyatt-Hawes/Time-Defender)
+10. ##### [Time-Defender](https://github.com/Wyatt-Hawes/Time-Defender)
 - Created in JavaScript using the Phaser library
 - Made with 2 other team members with varying levels of programming and artistic experience.
 - Includes procedurally generated video and audio
-- Browser downloads less than 1MB in order to play the game
+- `Browser downloads less than 1MB in order to play the game`
 - Managed a production timeline which included storyboarding, prototyping, task delegation, and weekly progress reports.
 
 ### Data Structures & Algorithms I've created.
 
 ##### Data Structures & ADT's
+- [Hash Table | C](https://github.com/Wyatt-Hawes/Data_Structures_in_C/blob/main/ht.c)
+- Reader Writer Lock | C
+- Concurrent Queue | C
 - [Bloom Filter | C](https://github.com/Wyatt-Hawes/Data_Structures_in_C/blob/main/bf.c)
 - [Bit Vector | C](https://github.com/Wyatt-Hawes/Data_Structures_in_C/blob/main/bv.c)
-- [Hash Table | C](https://github.com/Wyatt-Hawes/Data_Structures_in_C/blob/main/ht.c)
 - [Doubly Linked List | C](https://github.com/Wyatt-Hawes/Doubly_Linked_List_in_C/blob/main/List.c)
 - [Node | C](https://github.com/Wyatt-Hawes/Data_Structures_in_C/blob/main/node.c)
 - [Priority Queue | C](https://github.com/Wyatt-Hawes/Huffman-Encoding-Decoding/blob/main/pq.c)
@@ -79,8 +71,12 @@ and weekly progress reports.
 - [Sparse Matrix | C](https://github.com/Wyatt-Hawes/Sparse_Matrix_in_C/blob/main/Matrix.c)
 - [Graph | C](https://github.com/Wyatt-Hawes/Graph_with_adjacency_lists)
 
-- [List | C++](https://github.com/Wyatt-Hawes/List_ADT_in_Cpp/blob/main/List.cpp)
+- Reader Writer Mutex | C++
+- Filter & Bakery Algorithm Mutex | C++
+- Concurrent Queue | C++
+- Barrier (Sense Reversal) | C++
 - [Big Integer | C++](https://github.com/Wyatt-Hawes/Big_Integer_ADT_Cpp/blob/main/BigIntegerTest.cpp)
+- [List | C++](https://github.com/Wyatt-Hawes/List_ADT_in_Cpp/blob/main/List.cpp)
 - [Binary Search Tree Dictionary | C++](https://github.com/Wyatt-Hawes/Dictionary_using_BST_Cpp)
 - [Red Black Tree Dictionary | C++](https://github.com/Wyatt-Hawes/Dictionary_using_RBT_Cpp)
 
