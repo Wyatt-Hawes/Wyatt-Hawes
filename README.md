@@ -40,6 +40,7 @@ Preferred contact method is ```jhawes@ucsc.edu```
 - A platformer game made as a group of ~20
 - Published on Steam, created in Unity
 - Contributed as a Programmer `(Gameplay programmer & Automatic analytic collection)`
+- Collaborated with Designers, Investors, Managers, & Artists
 
 7. ##### [Facial-Recognition-TicTacToe](https://github.com/Wyatt-Hawes/Facial-Recognition-TicTacToe)
 - Trained a neural network based on a Kaggle dataset.
