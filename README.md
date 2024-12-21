@@ -32,7 +32,7 @@ Preferred contact method is ```jhawes@ucsc.edu```
 - Simple server that stores allows files to be stored and retrieved from the server
 
 4. ##### [SlugMart](https://github.com/Wyatt-Hawes/SlugMart) {Private repository available upon request}
-- Full stack Amazon Clone
+- Full-stack E-commerce app 
 - Complete with checkout, administration websites, Vendor API's, Vendor Websites, Checkout/Stripe Integration
 - Technologies & Ideas: React, Tailwind, GraphQL, Express, AWS, RESTful API, Docker, Microservices, & More!
 
