@@ -39,7 +39,7 @@ Preferred contact method is ```jhawes@ucsc.edu```
 5. ##### [Three Bulky Bears](https://github.com/SpaceDoddyssey/ThreeBulkyBears) {Private repository available upon request}
 - A platformer game made as a group of ~20
 - Published on Steam, created in Unity
-- Contributed as a Programmer `(Gameplay programmer & Automatic analytic collection)`
+- Contributed as a Programmer `(Gameplay programmer, UI Programmer, & Automatic analytic collection)`
 - Collaborated with Designers, Investors, Managers, & Artists
 
 7. ##### [Facial-Recognition-TicTacToe](https://github.com/Wyatt-Hawes/Facial-Recognition-TicTacToe)
