@@ -14,7 +14,7 @@ Preferred contact method is ```jhawes@ucsc.edu```
 ### Pinned Repositories
 
 1. ##### [Visual Taskboard](https://github.com/Wyatt-Hawes/ResNet-Visual-Taskboard)
-- Created because `myself and my co-workers were unhappy with our current issue tracking system` and its lack of integration with our ticketing system
+- Created since `myself and my co-workers were unhappy with our current issue tracking system` and its lack of integration with our ticketing system
 - `Took initiative to start this project on my own` from scratch to increase the work experience (and efficiency!) of the entire office.
 - A visual taskboard (Similar to Trello) that integrates with the ServiceNow ticketing API
 - Visualizes Client Updated and Stale tickets while allowing custom organization, sorting, and automation.
